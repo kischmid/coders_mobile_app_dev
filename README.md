@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Authors
 
-Katie Schmidt, Michigan Tech
+Katie Schmidt
 
 ## Getting Started
 
