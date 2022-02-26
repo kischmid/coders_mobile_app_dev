@@ -5,7 +5,7 @@ A new Flutter project.
 ## Authors
 
 Katie Schmidt
-mokie
+Jeremy Kiley
 
 ## Getting Started
 
