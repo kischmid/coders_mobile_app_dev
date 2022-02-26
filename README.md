@@ -5,7 +5,10 @@ A new Flutter project.
 ## Authors
 
 Katie Schmidt
+
 Thomas Scullion
+
+Jeremy Kiley
 
 ## Getting Started
 
