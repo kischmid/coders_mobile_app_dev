@@ -5,6 +5,7 @@ A new Flutter project.
 ## Authors
 
 Katie Schmidt
+Jeremy Kiley
 
 ## Getting Started
 
