@@ -10,6 +10,7 @@ Thomas Scullion
 
 Jeremy Kiley
 
+Catherine Vendlinski
 ## Getting Started
 
 This project is a starting point for a Flutter application.
