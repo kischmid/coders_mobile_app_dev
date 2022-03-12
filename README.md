@@ -6,7 +6,9 @@ A new Flutter project.
 
 Katie Schmidt
 
-Catherine
+Thomas Scullion
+
+Jeremy Kiley
 
 ## Getting Started
 
